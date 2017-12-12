@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-3. Word frequency counter 앱 만들기 (단어의 빈도 사용량을 계산)
+#### 3. Word frequency counter 앱 만들기 (단어의 빈도 사용량을 계산)
 
-1] wf.rb
+**1] wf.rb**
 
+```
 text = "A Tale of Two Cities (1859) is a novel by Charles Dickens, set in London and Paris before and during the French Revolution. The novel tells the story of the French Doctor Manette, his 18-year-long imprisonment in the Bastille in Paris and his release to life in London with his daughter Lucie, whom he had never met; Lucie's marriage and the collision between her beloved husband and the people who caused her father's imprisonment; and Monsieur and Madame Defarge, sellers of wine in a poor suburb of Paris. The story is set against the conditions that led up to the French Revolution and the Reign of Terror."
 
 # 1. text -> 단어별 끊긴 배열을 하나 만든다. (split)
@@ -37,6 +37,4 @@ puts "The most frequent word: #{values.max}"
 # puts "The most frequent word: #{wf.values.max}" -> 한줄로도 가능하다 !
 # puts wf.keys key만 출력
 # puts wf.values value만 출력
-=======
-
->>>>>>> 2db16cb9ba736bb1ef5f16a030419ed9bd45a802
+```
