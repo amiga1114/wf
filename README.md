@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 3. Word frequency counter 앱 만들기 (단어의 빈도 사용량을 계산)
 
 1] wf.rb
@@ -36,3 +37,6 @@ puts "The most frequent word: #{values.max}"
 # puts "The most frequent word: #{wf.values.max}" -> 한줄로도 가능하다 !
 # puts wf.keys key만 출력
 # puts wf.values value만 출력
+=======
+
+>>>>>>> 2db16cb9ba736bb1ef5f16a030419ed9bd45a802
